@@ -1,0 +1,27 @@
+{
+    "ok": {
+        "name": "vanessa geronimo",
+        "email": "vanessacaroline@pageobjectstest.com",
+        "pass": "12345678"
+    },
+    "ok2": {
+        "name": "frodo begins",
+        "email": "frodobegins@pageobjectstest.com",
+        "pass": "12345679"
+    },
+    "nameError": {
+        "name": "vanessa",
+        "email": "vanessacaroline@pageobjectstest.com",
+        "pass": "12345678"
+    },
+    "emailError": {
+        "name": "vanessa geronimo",
+        "email": "vanessacarolinepageobjectstest.com",
+        "pass": "12345678"
+    },
+    "passError": {
+        "name": "vanessa geronimo",
+        "email": "vanessacaroline@pageobjectstest.com",
+        "pass": "1234"
+    }
+}
