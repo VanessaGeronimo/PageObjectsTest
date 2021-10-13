@@ -1,0 +1,22 @@
+{
+  "name": "pageobjectstest",
+  "version": "1.0.0",
+  "description": "PageObjectsTest",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "$(npm bin)/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanessaGeronimo/PageObjectsTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanessaGeronimo/PageObjectsTest/issues"
+  },
+  "homepage": "https://github.com/VanessaGeronimo/PageObjectsTest#readme",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  }
+}
